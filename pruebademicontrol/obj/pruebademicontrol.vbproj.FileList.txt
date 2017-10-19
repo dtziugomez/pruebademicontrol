@@ -1,0 +1,13 @@
+bin\Debug\pruebademicontrol.exe
+bin\Debug\pruebademicontrol.pdb
+bin\Debug\pruebademicontrol.xml
+bin\Debug\controlpersonalizado.dll
+bin\Debug\controlpersonalizado.pdb
+bin\Debug\controlpersonalizado.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\pruebademicontrol.Form1.resources
+obj\Debug\pruebademicontrol.Resources.resources
+obj\Debug\pruebademicontrol.vbproj.GenerateResource.Cache
+obj\Debug\pruebademicontrol.exe
+obj\Debug\pruebademicontrol.xml
+obj\Debug\pruebademicontrol.pdb
